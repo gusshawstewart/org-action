@@ -122,7 +122,7 @@ async function repoDirector(repoArray) {
       const pushedAt = element.pushedAt
       const updatedAt = element.updatedAt
       const primaryLanguage = element.primaryLanguage
-      const createdDate = element.createdDate
+      const createdDate = element.createdAt
       const diskUsage = element.diskUsage
       const admins = []
 
